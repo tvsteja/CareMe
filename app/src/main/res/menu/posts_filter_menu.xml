@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Experience"
+        android:enabled="false"/>
+    <item
+        android:id="@+id/tvExpLessFive"
+        android:title="&lt; 5" />
+    <item
+        android:id="@+id/tvExpLessTen"
+        android:title="6-10" />
+    <item
+        android:id="@+id/tvExpLessTwenty"
+        android:title="11-20" />
+    <item android:title="Price"
+        android:enabled="false"/>
+    <item
+        android:id="@+id/tvPriceLessTwenty"
+        android:title="&lt; 20" />
+    <item
+        android:id="@+id/tvPriceLessFifty"
+        android:title="21-50" />
+    <item
+        android:id="@+id/tvPriceLessHundred"
+        android:title="51-100" />
+    <item
+        android:id="@+id/tvClearFilter"
+        android:title="Clear Filter" />
+</menu>

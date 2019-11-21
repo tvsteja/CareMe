@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "450219649040",
+    "firebase_url": "https://careme-3b14f.firebaseio.com",
+    "project_id": "careme-3b14f",
+    "storage_bucket": "careme-3b14f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450219649040:android:c1a876fceee1eaf8f18295",
+        "android_client_info": {
+          "package_name": "com.careme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450219649040-lj8naas4c68fg45g0090l7j45rs8stt1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.careme",
+            "certificate_hash": "3531b464ca530ff6d16a735e8a992ae0447b8285"
+          }
+        },
+        {
+          "client_id": "450219649040-ib2e1dmqluunbul02tokhutikvef4d2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAImH_8rK_pL2ym8inhEyDAwk5o0lxbvc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450219649040-ib2e1dmqluunbul02tokhutikvef4d2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

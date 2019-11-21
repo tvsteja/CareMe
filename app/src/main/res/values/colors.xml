@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF4314</color>
+    <color name="colorPrimaryDark">#FF4314</color>
+    <color name="colorAccent">#FF4314</color>
+    <color name="white">#fff</color>
+    <color name="line_grey_hori">#E5E5E5</color>
+    <color name="parent_post_bg">#FFCCBC</color>
+    <color name="caregiver_post_bg">#BBDEFB</color>
+</resources>
